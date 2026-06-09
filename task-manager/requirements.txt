@@ -1,0 +1,4 @@
+click>=8.0
+python-dotenv>=1.0
+msal>=1.26
+requests>=2.31

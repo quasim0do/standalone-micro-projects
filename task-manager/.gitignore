@@ -1,0 +1,6 @@
+.env
+tasks.json
+outlook_cache.json
+logs/
+__pycache__/
+*.pyc
